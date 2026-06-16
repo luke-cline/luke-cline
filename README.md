@@ -34,20 +34,20 @@
 ║                              SYSTEM CONSOLE                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║   IDENTITY      →  Luke Cline                                               ║
-║   ENTITY        →  Beyond Norme Inc.                                        ║
+║   IDENTITY      →  Luke Cline                                                ║
+║   ENTITY        →  Beyond Norme Inc.                                         ║
 ║   ROLE          →  Founder & CEO                                             ║
 ║   LOCATION      →  Los Angeles, CA                                           ║
 ║                                                                              ║
-║   STACK CORE    →  Next.js · TypeScript · Supabase · Vercel Edge            ║
+║   STACK CORE    →  Next.js · TypeScript · Supabase · Vercel Edge             ║
 ║   MOBILE        →  React Native · Expo EAS                                   ║
 ║   COMMERCE      →  Stripe                                                    ║
 ║                                                                              ║
 ║   ACTIVE OP     →  Enterprise pilot · in progress                            ║
 ║   BUILD COUNT   →  3 active products                                         ║
-║   TEAM          →  Founding team · lean · zero waste                        ║
+║   TEAM          →  Founding team · lean · zero waste                         ║
 ║                                                                              ║
-║   STATUS        →  🟣 ONLINE · SHIPPING · NO EXCUSES                       ║
+║   STATUS        →  🟣 ONLINE · SHIPPING · NO EXCUSES                         ║ 
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -130,7 +130,7 @@ An enterprise-grade AI platform built mobile-native from day one. Every componen
 ║                              FRAMEWORK                               ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║                     ┌──────────────────────────┐                    ║
+║                     ┌──────────────────────────┐                     ║ 
 ║                     │        TOP LAYER          │                    ║
 ║                     │   flow · routing · sync   │                    ║
 ║                     └──────────────┬────────────┘                    ║
@@ -138,19 +138,19 @@ An enterprise-grade AI platform built mobile-native from day one. Every componen
 ║          ┌─────────────────────────┼─────────────────────────┐       ║
 ║          ▼                         ▼                         ▼       ║
 ║   ┌──────────────┐        ┌──────────────┐        ┌──────────────┐   ║
-║   │   INPUT       │        │   STATE       │        │   SIGNAL      │   ║
-║   └──────┬────────┘        └──────┬────────┘        └──────┬────────┘   ║
-║          │                         │                         │           ║
-║          └─────────────────────────┼─────────────────────────┘           ║
-║                                    │                                     ║
-║                                    ▼                                     ║
-║         ┌────────────────────────────────────────────────────────┐       ║
-║         │                        CORE LAYER                      │       ║
-║         │   isolation · trace · continuity · edge execution      │       ║
-║         └────────────────────────────────────────────────────────┘       ║
+║   │   INPUT       │        │   STATE       │        │   SIGNAL      │║
+║   └──────┬────────┘        └──────┬────────┘        └──────┬────────┘║
+║          │                         │                         │       ║
+║          └─────────────────────────┼─────────────────────────┘       ║
+║                                    │                                 ║
+║                                    ▼                                 ║
+║         ┌────────────────────────────────────────────────────────┐   ║
+║         │                        CORE LAYER                      │   ║
+║         │   isolation · trace · continuity · edge execution      │   ║
+║         └────────────────────────────────────────────────────────┘   ║
 ║                                                                      ║
-║      RUNTIME:  edge stack · distributed UI · mobile surface         ║
-║      STATUS:   active · iterative · tuned                           ║
+║      RUNTIME:  edge stack · distributed UI · mobile surface          ║
+║      STATUS:   active · iterative · tuned                            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
