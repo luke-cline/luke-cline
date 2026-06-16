@@ -1,16 +1,3 @@
-╔══════════════════════════════════════════════════════════════════════════════╗
-║   GITHUB PROFILE README — SETUP CHECKLIST                                   ║
-║                                                                              ║
-║   [ ] Create repo named exactly:  luke-cline  (must match your handle)      ║
-║   [ ] Replace luke-cline with your actual GitHub handle throughout           ║
-║   [ ] Replace YOUR_LINKEDIN with your LinkedIn slug                          ║
-║   [ ] Replace BeyondNorme with your X / Twitter handle                       ║
-║   [ ] Commit assets/banner.svg to this repo                                 ║
-║   [ ] Create .github/workflows/snake.yml (see included file)                ║
-║   [ ] Run the snake workflow manually once from the GitHub Actions tab       ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <!-- GALAXY GIF HEADER -->
