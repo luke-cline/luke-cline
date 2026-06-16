@@ -118,15 +118,6 @@ That's the only way I know how to build.
 
 ---
 
-## ◈ ACTIVE BUILDS
-
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Enterprise+AI+platform+·+live+pilot+in+progress.;Operator+OS+·+AI-native+from+the+schema+up.;Custom+commerce+·+full+ownership%2C+no+compromise." alt="Builds" />
-</div>
-
-<br/>
 
 ### `AGNTQS` — Enterprise AI Platform
 
