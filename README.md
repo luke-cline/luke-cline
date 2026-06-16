@@ -145,36 +145,72 @@ Custom commerce stack with Stripe + Supabase. Zero template reliance.
 
 ---
 
-## ◈ SYSTEM ARCHITECTURE
+## ◈ STACK & TOOLS
 
 <div align="center">
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=for-the-badge&logo=typescript&logoColor=7df9ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d12?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d0d12?style=for-the-badge&logo=python&logoColor=d400ff)
+![SQL](https://img.shields.io/badge/SQL-0d0d12?style=for-the-badge&logo=postgresql&logoColor=7df9ff)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d12?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d12?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bash](https://img.shields.io/badge/Bash-0d0d12?style=for-the-badge&logo=gnubash&logoColor=7df9ff)
+![JSON](https://img.shields.io/badge/JSON-0d0d12?style=for-the-badge&logo=json&logoColor=d400ff)
 
 ### Frontend & Framework
 
 ![Next.js](https://img.shields.io/badge/Next.js-0d0d12?style=for-the-badge&logo=nextdotjs&logoColor=d400ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=for-the-badge&logo=typescript&logoColor=7df9ff)
-![React](https://img.shields.io/badge/React-0d0d12?style=for-the-badge&logo=react&logoColor=d400ff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d12?style=for-the-badge&logo=tailwindcss&logoColor=7df9ff)
+![React](https://img.shields.io/badge/React-0d0d12?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d0d12?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d12?style=for-the-badge&logo=framer&logoColor=d400ff)
+![Radix UI](https://img.shields.io/badge/Radix_UI-0d0d12?style=for-the-badge&logo=radixui&logoColor=7df9ff)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-0d0d12?style=for-the-badge&logo=shadcnui&logoColor=ffffff)
 
 ### Backend & Database
 
 ![Supabase](https://img.shields.io/badge/Supabase-0d0d12?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d12?style=for-the-badge&logo=postgresql&logoColor=7df9ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d12?style=for-the-badge&logo=nodedotjs&logoColor=d400ff)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d12?style=for-the-badge&logo=nodedotjs&logoColor=3ECF8E)
+![Express](https://img.shields.io/badge/Express-0d0d12?style=for-the-badge&logo=express&logoColor=d400ff)
+![Prisma](https://img.shields.io/badge/Prisma-0d0d12?style=for-the-badge&logo=prisma&logoColor=7df9ff)
+![Redis](https://img.shields.io/badge/Redis-0d0d12?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 ### Mobile
 
-![React Native](https://img.shields.io/badge/React_Native-0d0d12?style=for-the-badge&logo=react&logoColor=d400ff)
-![Expo EAS](https://img.shields.io/badge/Expo_EAS-0d0d12?style=for-the-badge&logo=expo&logoColor=7df9ff)
+![React Native](https://img.shields.io/badge/React_Native-0d0d12?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo_EAS-0d0d12?style=for-the-badge&logo=expo&logoColor=d400ff)
 
-### Infrastructure & Deployment
+### AI / Intelligence
 
-![Vercel](https://img.shields.io/badge/Vercel_Edge-0d0d12?style=for-the-badge&logo=vercel&logoColor=d400ff)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d12?style=for-the-badge&logo=openai&logoColor=7df9ff)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d12?style=for-the-badge&logo=langchain&logoColor=d400ff)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d12?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+
+### Infrastructure & DevOps
+
+![Vercel](https://img.shields.io/badge/Vercel-0d0d12?style=for-the-badge&logo=vercel&logoColor=d400ff)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d12?style=for-the-badge&logo=githubactions&logoColor=7df9ff)
+![Docker](https://img.shields.io/badge/Docker-0d0d12?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d0d12?style=for-the-badge&logo=git&logoColor=F05032)
 
-### Commerce
+### Editor & Environment
 
-![Stripe](https://img.shields.io/badge/Stripe-0d0d12?style=for-the-badge&logo=stripe&logoColor=7df9ff)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d12?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Cursor](https://img.shields.io/badge/Cursor-0d0d12?style=for-the-badge&logo=cursor&logoColor=d400ff)
+![macOS](https://img.shields.io/badge/macOS-0d0d12?style=for-the-badge&logo=apple&logoColor=7df9ff)
+![Warp](https://img.shields.io/badge/Warp-0d0d12?style=for-the-badge&logo=warp&logoColor=d400ff)
+
+### Commerce & Payments
+
+![Stripe](https://img.shields.io/badge/Stripe-0d0d12?style=for-the-badge&logo=stripe&logoColor=635BFF)
+![Gumroad](https://img.shields.io/badge/Gumroad-0d0d12?style=for-the-badge&logo=gumroad&logoColor=FF90E8)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-0d0d12?style=for-the-badge&logo=figma&logoColor=d400ff)
 
 </div>
 
@@ -196,11 +232,11 @@ Every tool in this stack was chosen. Not defaulted to.
 
 ---
 
-## ◈ TROPHIES
+## ◈ SKILL ICONS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=luke-cline&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=7" width="100%" alt="GitHub Trophies" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,supabase,postgres,nodejs,vercel,github,docker,python,bash,git,figma,stripe,expo,redis,prisma,vscode,linux&theme=dark&perline=10" />
 
 </div>
 
