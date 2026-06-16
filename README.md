@@ -32,7 +32,7 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-🟢%20BUILDING-00d4ff?style=flat-square)
 &nbsp;
-![Company](https://img.shields.io/badge/Beyond%20Norm%20Inc.-000000?style=flat-square&logoColor=00d4ff)
+[![Company](https://img.shields.io/badge/Beyond%20Norm%20Inc.-000000?style=flat-square&logoColor=00d4ff)](https://www.agntqs.com/portal)
 
 </div>
 
