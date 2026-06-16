@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- GALAXY GIF HEADER -->
-<img src=https://media4.giphy.com/media/AGHZd7iG2IVWgRMbkW/giphy.gif width="100%" height="200px" style="object-fit:cover;border-radius:0;" alt="galaxy" />
+<img src="https://media4.giphy.com/media/AGHZd7iG2IVWgRMbkW/giphy.gif" width="100%" alt="header" />
+
 
 <br/>
 
