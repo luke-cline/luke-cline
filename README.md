@@ -388,4 +388,4 @@ Every tool in this stack was chosen. Not defaulted to.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d400ff,50:131320,100:0d0d12&height=130&section=footer&animation=fadeIn" width="100%" />
 
 </div>
-ENDOFFILE
+
