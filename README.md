@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Beyond Norm Inc." />
+<img src="./assets/banner.svg" width="100%" alt="Beyond Norme Inc." />
 
 <br/><br/>
 
