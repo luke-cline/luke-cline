@@ -1,0 +1,117 @@
+<svg viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" width="900" height="220">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="45%" stop-color="#03060f"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <linearGradient id="sideLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sideRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Side glow overlays -->
+  <rect x="0" y="0" width="200" height="220" fill="url(#sideLeft)"/>
+  <rect x="700" y="0" width="200" height="220" fill="url(#sideRight)"/>
+
+  <!-- Grid: horizontal -->
+  <line x1="0" y1="44" x2="900" y2="44" stroke="#00d4ff" stroke-width="0.35" opacity="0.1"/>
+  <line x1="0" y1="88" x2="900" y2="88" stroke="#00d4ff" stroke-width="0.35" opacity="0.1"/>
+  <line x1="0" y1="132" x2="900" y2="132" stroke="#00d4ff" stroke-width="0.35" opacity="0.1"/>
+  <line x1="0" y1="176" x2="900" y2="176" stroke="#00d4ff" stroke-width="0.35" opacity="0.1"/>
+
+  <!-- Grid: vertical -->
+  <line x1="90"  y1="0" x2="90"  y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="180" y1="0" x2="180" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="270" y1="0" x2="270" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="360" y1="0" x2="360" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="450" y1="0" x2="450" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="540" y1="0" x2="540" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="630" y1="0" x2="630" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="720" y1="0" x2="720" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+  <line x1="810" y1="0" x2="810" y2="220" stroke="#00d4ff" stroke-width="0.35" opacity="0.07"/>
+
+  <!-- Top border -->
+  <rect x="0" y="0" width="900" height="1" fill="#00d4ff" opacity="0.55"/>
+  <!-- Bottom border -->
+  <rect x="0" y="219" width="900" height="1" fill="#00d4ff" opacity="0.55"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="3" height="220" fill="#00d4ff" opacity="0.65">
+    <animate attributeName="opacity" values="0.4;0.85;0.4" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+  <!-- Right accent bar -->
+  <rect x="897" y="0" width="3" height="220" fill="#00d4ff" opacity="0.65">
+    <animate attributeName="opacity" values="0.85;0.4;0.85" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets — top left -->
+  <polyline points="4,28 4,4 28,4" fill="none" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+  <!-- Corner brackets — top right -->
+  <polyline points="872,4 896,4 896,28" fill="none" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+  <!-- Corner brackets — bottom left -->
+  <polyline points="4,192 4,216 28,216" fill="none" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+  <!-- Corner brackets — bottom right -->
+  <polyline points="872,216 896,216 896,192" fill="none" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+
+  <!-- Scan line animation -->
+  <rect x="4" y="0" width="893" height="2" fill="#00d4ff" opacity="0.09">
+    <animateTransform attributeName="transform" type="translate" from="0,0" to="0,220" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Main title: BEYOND NORM -->
+  <text x="450" y="106" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="62" font-weight="900"
+        fill="#ffffff" letter-spacing="16" opacity="0.97">BEYOND NORM</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="140" text-anchor="middle"
+        font-family="'Courier New', Courier, monospace"
+        font-size="12" fill="#00d4ff" letter-spacing="7" opacity="0.88">
+    INC.  ·  AI-NATIVE INFRASTRUCTURE  ·  LOS ANGELES
+  </text>
+
+  <!-- Top-left: status label -->
+  <circle cx="22" cy="22" r="4" fill="#00d4ff" opacity="0.85">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="34" y="27"
+        font-family="'Courier New', Courier, monospace"
+        font-size="9" fill="#00d4ff" opacity="0.7" letter-spacing="2">SYSTEM ONLINE</text>
+
+  <!-- Top-right: role -->
+  <text x="876" y="27" text-anchor="end"
+        font-family="'Courier New', Courier, monospace"
+        font-size="9" fill="#00d4ff" opacity="0.7" letter-spacing="2">FOUNDER &amp; CEO</text>
+
+  <!-- Bottom-left: projects -->
+  <text x="22" y="198"
+        font-family="'Courier New', Courier, monospace"
+        font-size="9" fill="#00d4ff" opacity="0.45" letter-spacing="2">
+    AGNTQS · BEYOND NORM · CLOUD COSMETICS
+  </text>
+
+  <!-- Bottom-right: status indicator -->
+  <circle cx="816" cy="195" r="3.5" fill="#00ff88" opacity="0.8">
+    <animate attributeName="r" values="3;4.5;3" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="827" y="199"
+        font-family="'Courier New', Courier, monospace"
+        font-size="9" fill="#00ff88" opacity="0.75" letter-spacing="2">BUILDING</text>
+
+  <!-- Blinking cursor after BUILDING -->
+  <rect x="875" y="185" width="7" height="14" fill="#00ff88" opacity="0.75">
+    <animate attributeName="opacity" values="0.75;0;0.75" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
