@@ -1,4 +1,3 @@
-<!--
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║   GITHUB PROFILE README — SETUP CHECKLIST                                   ║
 ║                                                                              ║
@@ -13,6 +12,11 @@
 -->
 
 <div align="center">
+
+<!-- GALAXY GIF HEADER -->
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="200px" style="object-fit:cover;border-radius:0;" alt="galaxy" />
+
+<br/>
 
 <img src="./assets/banner.svg" width="100%" alt="Beyond Norme Inc." />
 
@@ -43,6 +47,7 @@
 ║                              SYSTEM CONSOLE                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
+║   IDENTITY      →  Luke Cline                                               ║
 ║   ENTITY        →  Beyond Norme Inc.                                        ║
 ║   ROLE          →  Founder & CEO                                             ║
 ║   LOCATION      →  Los Angeles, CA                                           ║
@@ -60,17 +65,69 @@
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:d400ff,100:0d0d12&height=2&section=header" width="100%"/>
+</div>
+
 ---
 
-## ◈ THE HUMAN BEHIND THE CODE
+## 👾 LUKE CLINE — FOUNDER, CEO, ENGINEER
 
-I'm a **self-taught, full-stack founder** who designs the system architecture, writes production code, and owns the enterprise relationship. Simultaneously.
+<table>
+<tr>
+<td width="55%" valign="top">
 
-No CS degree. No seed round. No agency. No outsourced architecture.
+### The short version
 
-What I have is an obsession with **building things that actually work at scale** — and the conviction that the only moat worth having is one you understand at every layer.
+I'm Luke — self-taught, full-stack, Los Angeles.
 
-> **Vertically integrated. First principles at every layer. Ruthless about what earns its place. Nothing bolted on.**
+I didn't come up through a CS program or a FAANG eng pipeline. I learned by building, broke things, rebuilt them better, and kept going. Today I'm building **Beyond Norme Inc.** — an AI infrastructure company operating in the enterprise market with a live pilot already in progress.
+
+I design the architecture. I write the code. I own the go-to-market. I close the deals. There's no team between me and the output — which means every decision, every tradeoff, every line of code is mine.
+
+### What I'm working on right now
+
+- `AGNTQS` — enterprise AI platform, live pilot in progress
+- `Beyond Norme` — closed-loop operator platform, AI-native from the schema up
+- `Cloud Cosmetics` — custom full-stack commerce, no Shopify, full ownership
+
+### What drives me
+
+The AI infrastructure layer is being built right now. Not in five years. Now. The teams that win it won't be the ones that moved fastest — they'll be the ones that designed it deepest. Intelligence in the schema, not in the UI. Sovereign data. Compounding context. Mobile-first by default.
+
+That's the only way I know how to build.
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/l4q8cFoLxjZcABTCo/giphy.gif" width="100%" alt="holographic space" style="border-radius:8px;" />
+
+<br/><br/>
+
+```
+  ┌─────────────────────────────┐
+  │   Currently shipping:       │
+  │                             │
+  │   → Enterprise AI platform  │
+  │   → Operator OS             │
+  │   → Custom commerce stack   │
+  │                             │
+  │   Stack: Next.js · TS       │
+  │          Supabase · Vercel  │
+  │          RN · Expo EAS      │
+  │                             │
+  │   Location: Los Angeles     │
+  │   Mode: Founder solo + team │
+  └─────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d12,50:d400ff,100:0d0d12&height=1&section=header" width="100%"/>
+</div>
 
 ---
 
@@ -78,46 +135,50 @@ What I have is an obsession with **building things that actually work at scale**
 
 <br/>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Enterprise+AI+platform+·+live+pilot+in+progress.;Operator+OS+·+AI-native+from+the+schema+up.;Custom+commerce+·+full+ownership%2C+no+compromise." alt="Builds" />
+</div>
+
+<br/>
+
 ### `AGNTQS` — Enterprise AI Platform
 
 > **Not an app. Not a wrapper. Infrastructure.**
 
-An enterprise-grade AI platform built mobile-native from day one. The architecture is designed so that every component feeds every other — a compounding intelligence loop, not a collection of disconnected tools.
+An enterprise-grade AI platform built mobile-native from day one. Every component feeds every other — a compounding intelligence loop, not a collection of disconnected tools.
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                    AGNTQS — ARCHITECTURE                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║              ┌─────────────────────────────────┐                ║
-║              │       ORCHESTRATION LAYER        │                ║
-║              │   Agent coordination · context   │                ║
-║              │   injection · state management   │                ║
-║              └────────────────┬────────────────┘                ║
-║                               │                                  ║
-║         ┌─────────────────────┼─────────────────────┐           ║
-║         ▼                     ▼                     ▼           ║
-║   ┌───────────┐        ┌───────────┐        ┌───────────┐       ║
-║   │  CAPTURE  │        │  MEMORY   │        │   TRUST   │       ║
-║   │  layer    │        │  layer    │        │   layer   │       ║
-║   └─────┬─────┘        └─────┬─────┘        └─────┬─────┘       ║
-║         │                    │                     │             ║
-║         └────────────────────┼─────────────────────┘            ║
-║                               │                                  ║
-║                               ▼                                  ║
-║         ┌─────────────────────────────────────────────┐         ║
-║         │              DATA LAYER                      │         ║
-║         │   Per-tenant isolation · audit trail         │         ║
-║         │   Real-time sync · edge functions            │         ║
-║         └─────────────────────────────────────────────┘         ║
-║                                                                  ║
-║   RUNTIME:   Next.js · Vercel Edge · React Native · Expo EAS    ║
-║   PILOT:     Enterprise · in progress                            ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                     AGNTQS — ARCHITECTURE                            ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║              ┌──────────────────────────────────┐                   ║
+║              │        ORCHESTRATION LAYER        │                   ║
+║              │  Agent coordination · context     │                   ║
+║              │  injection · state management     │                   ║
+║              └─────────────┬────────────────────┘                   ║
+║                            │                                         ║
+║          ┌─────────────────┼─────────────────┐                      ║
+║          ▼                 ▼                 ▼                      ║
+║   ┌────────────┐    ┌────────────┐    ┌────────────┐                ║
+║   │  CAPTURE   │    │   MEMORY   │    │   TRUST    │                ║
+║   │   layer    │    │   layer    │    │   layer    │                ║
+║   └─────┬──────┘    └─────┬──────┘    └─────┬──────┘                ║
+║         │                 │                  │                       ║
+║         └─────────────────┼──────────────────┘                      ║
+║                            │                                         ║
+║                            ▼                                         ║
+║         ┌──────────────────────────────────────────┐                ║
+║         │               DATA LAYER                  │                ║
+║         │  Per-tenant isolation · audit trail        │                ║
+║         │  Real-time sync · edge functions           │                ║
+║         └──────────────────────────────────────────┘                ║
+║                                                                      ║
+║  RUNTIME:  Next.js · Vercel Edge · React Native · Expo EAS          ║
+║  STATUS:   Enterprise pilot · in progress · production-ready         ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-**Status:** Enterprise pilot. In progress. Production-ready.
 
 <br/>
 
@@ -139,9 +200,13 @@ Built on the same stack. Every tool feeds every other. Intelligence compounds ac
 
 > **No Shopify. Full brand ownership.**
 
-Custom commerce stack with Stripe + Supabase. Zero template reliance.
+Custom commerce stack. Stripe + Supabase. Zero template reliance.
 
 **Stack:** Next.js · Supabase · Stripe · TypeScript · Vercel
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d12,50:7df9ff,100:0d0d12&height=1&section=header" width="100%"/>
+</div>
 
 ---
 
@@ -158,7 +223,7 @@ Custom commerce stack with Stripe + Supabase. Zero template reliance.
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d12?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d12?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bash](https://img.shields.io/badge/Bash-0d0d12?style=for-the-badge&logo=gnubash&logoColor=7df9ff)
-![JSON](https://img.shields.io/badge/JSON-0d0d12?style=for-the-badge&logo=json&logoColor=d400ff)
+![MDX](https://img.shields.io/badge/MDX-0d0d12?style=for-the-badge&logo=mdx&logoColor=d400ff)
 
 ### Frontend & Framework
 
@@ -203,14 +268,11 @@ Custom commerce stack with Stripe + Supabase. Zero template reliance.
 ![macOS](https://img.shields.io/badge/macOS-0d0d12?style=for-the-badge&logo=apple&logoColor=7df9ff)
 ![Warp](https://img.shields.io/badge/Warp-0d0d12?style=for-the-badge&logo=warp&logoColor=d400ff)
 
-### Commerce & Payments
+### Commerce & Design
 
 ![Stripe](https://img.shields.io/badge/Stripe-0d0d12?style=for-the-badge&logo=stripe&logoColor=635BFF)
-![Gumroad](https://img.shields.io/badge/Gumroad-0d0d12?style=for-the-badge&logo=gumroad&logoColor=FF90E8)
-
-### Design
-
 ![Figma](https://img.shields.io/badge/Figma-0d0d12?style=for-the-badge&logo=figma&logoColor=d400ff)
+![Gumroad](https://img.shields.io/badge/Gumroad-0d0d12?style=for-the-badge&logo=gumroad&logoColor=FF90E8)
 
 </div>
 
@@ -242,26 +304,6 @@ Every tool in this stack was chosen. Not defaulted to.
 
 ---
 
-## ◈ STATS
-
-<div align="center">
-
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=luke-cline&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d12&title_color=d400ff&icon_color=7df9ff&text_color=ffffff&ring_color=d400ff&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-cline&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d12&title_color=d400ff&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=luke-cline&theme=github-dark-blue&hide_border=true&background=0D0D12&stroke=D400FF&ring=D400FF&fire=7DF9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D400FF&sideLabels=7DF9FF&dates=888888" />
-
-</div>
-
----
-
 ## ◈ ACTIVITY GRAPH
 
 <div align="center">
@@ -286,7 +328,7 @@ Every tool in this stack was chosen. Not defaulted to.
 
 ---
 
-## ◈ HOW I THINK ABOUT BUILDING
+## ◈ HOW I BUILD
 
 ```
 ──────────────────────────────────────────────────────────────────────────────
@@ -346,6 +388,10 @@ Every tool in this stack was chosen. Not defaulted to.
 
 <br/>
 
+<img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="60%" alt="space signal" />
+
+<br/><br/>
+
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
@@ -357,10 +403,11 @@ Every tool in this stack was chosen. Not defaulted to.
 
 <br/>
 
-**Beyond Norme Inc. · Los Angeles, CA · AI-Native Infrastructure**
+**Luke Cline · Beyond Norme Inc. · Los Angeles, CA · AI-Native Infrastructure**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d400ff,50:131320,100:0d0d12&height=130&section=footer&animation=fadeIn" width="100%" />
 
 </div>
+ENDOFFILE
