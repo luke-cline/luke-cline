@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=14&duration=2800&pause=900&color=C9AE8A&center=true&vCenter=true&width=860&lines=Founder+%26+CEO+%40+Beyond+Norme+Inc.+%E2%80%94+Los+Angeles%2C+CA.;Building+AI-native+infrastructure+for+the+enterprise.;Self-taught.+Zero+budget.+Maximum+precision.;I+design+the+architecture.+I+write+the+code.+I+own+the+relationship.;Intelligence+designed+in+from+day+one+%E2%80%94+not+bolted+on.;One+cup+does+not+build+a+company.+Thousands+of+cups+do.;Founder+first.+Builder+always." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=14&duration=2800&pause=1000&color=C9AE8A&center=true&vCenter=true&width=860&lines=Founder+%26+CEO+%40+Beyond+Norme+Inc.+%E2%80%94+Los+Angeles%2C+CA.;Building+AI-native+infrastructure+for+the+enterprise.;Self-taught.+Fifteen+ventures.+One+that+stuck.;I+design+the+architecture.+I+write+the+code.+I+own+the+relationship.;Intelligence+designed+in+from+day+one+%E2%80%94+not+bolted+on.;There+is+no+light+without+dark.+No+rainbow+without+rain.;One+cup+does+not+build+a+company.+Thousands+of+cups+do.;Exploring+autonomous+agentic+flows.+Always+building." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -40,8 +40,9 @@
 ║   INTELLIGENCE  →  Claude · OpenAI · Groq · Deepgram Nova-2                 ║
 ║                                                                              ║
 ║   ACTIVE OP     →  Enterprise pilot · in progress                            ║
-║   BUILD COUNT   →  3 active products                                         ║
+║   BUILD COUNT   →  2 active products · 1 side project                        ║
 ║   DB SCALE      →  100+ tables · raw PLpgSQL · RLS on every row              ║
+║   VENTURES      →  15 attempts · 15 lessons · 1 that stuck                  ║
 ║                                                                              ║
 ║   STATUS        →  ☕ BREWING · SHIPPING · NO EXCUSES                        ║
 ║                                                                              ║
@@ -60,23 +61,23 @@
 
 I'm Luke — self-taught, full-stack, Los Angeles.
 
-I didn't come up through a CS program or a FAANG pipeline. I learned by building, broke things, rebuilt them better, and kept going. Today I run **Beyond Norme Inc.** — an AI infrastructure company with a live enterprise pilot in progress and three products shipping in parallel.
+I didn't come up through a CS program or a FAANG pipeline. I learned by building, broke things, rebuilt them better, and kept going. Fifteen ventures came before this one. Not failures — investments. Every one of them paid tuition in lessons that no school offers: how to read a market before it's ready, how to kill something you built, how to start again anyway.
 
-This profile isn't a portfolio.
+Today I run **Beyond Norme Inc.** — an AI infrastructure company with a live enterprise pilot in progress. This is what fifteen attempts were building toward.
 
-It's a founder operating console.
+This profile isn't a portfolio. It's a founder operating console.
 
-Building a company is like brewing coffee. One conversation, one commit, one customer call, one architecture decision at a time. No single cup makes the difference. Thousands of them do. Every line in this README represents a morning I showed up, poured a cup, and kept building.
+Building a company is like brewing coffee. One conversation, one commit, one customer call, one architecture decision at a time. No single cup makes the difference. Thousands of them do.
 
-### What I'm working on right now
+### What I'm building right now
 
 - `AGNTQS` — enterprise AI platform, live pilot in progress
 - `Beyond Norme` — closed-loop operator platform, AI-native from the schema up
-- `Cloud Cosmetics` — custom full-stack commerce, no Shopify, full ownership
+- `Agentic Flows` — side project · exploring autonomous multi-agent systems · learning by building
 
 ### What drives me
 
-The AI infrastructure layer is being built right now. Not in five years. Now. The teams that win it won't be the ones that moved fastest — they'll be the ones that designed it deepest.
+The AI infrastructure layer is being built right now. Not in five years. Now. The teams that win it won't be the ones who moved fastest — they'll be the ones who designed it deepest.
 
 Intelligence in the schema, not in the UI. Sovereign data. Compounding context. Mobile-first by default.
 
@@ -93,7 +94,7 @@ Intelligence in the schema, not in the UI. Sovereign data. Compounding context. 
   │                              │
   │   → Enterprise AI platform   │
   │   → Operator OS              │
-  │   → Custom commerce stack    │
+  │   → Agentic flows (side)     │
   │                              │
   │   ──────────────────────     │
   │                              │
@@ -106,8 +107,8 @@ Intelligence in the schema, not in the UI. Sovereign data. Compounding context. 
   │          Supabase · Vercel   │
   │          RN · Expo EAS       │
   │                              │
-  │   Mode: Founder + team       │
-  │   Location: Los Angeles      │
+  │   15 ventures before this.   │
+  │   Each one paid forward.     │
   │                              │
   └──────────────────────────────┘
 ```
@@ -122,26 +123,90 @@ Intelligence in the schema, not in the UI. Sovereign data. Compounding context. 
 
 > *One cup does not build a company. Thousands of cups do.*
 
-Every morning is a new pour. Every commit adds to the brew. The mug is full because the work is consistent — not because any single day was extraordinary.
+Every morning is a new pour. Every commit adds to the brew. Fifteen ventures came before this one — not as failures, but as drops that fell before the cup filled. You do not get the cup without them.
 
 ```
-  ┌───────────────────────────────────────────────────────────────┐
-  │                                                               │
-  │   ╭─────────────────────────────────────────────────────╮    │
-  │   │  ░░░░░░░░░░░░░░  FOAM  ░░░░░░░░░░░░░░░░░░░░░░░░░░  │    │
-  │   │  ▓▓▓▓▓▓▓  OAT MILK — shipped work, outcomes  ▓▓▓▓▓  │    │
-  │   │  ▒▒▒▒▒▒▒▒▒  LATTE — growth, momentum  ▒▒▒▒▒▒▒▒▒▒▒  │    │
-  │   │  ████████  MEDIUM ROAST — execution  ████████████   │    │
-  │   │  ████████████  DARK ROAST — systems  ██████████████ │    │
-  │   │  ██████████  ESPRESSO — foundation  ████████████    │    │
-  │   ╰─────────────────────────────────────────────────────╯    │
-  │                         ─────                                 │
-  │                                                               │
-  └───────────────────────────────────────────────────────────────┘
-
-  Foundation → Systems → Execution → Growth → Shipped.
-  That's the only sequence that works.
+  ┌───────────────────────────────────────────────────────────────────────┐
+  │                                                                       │
+  │                    ·  ·  ·  [steam rising]  ·  ·  ·                  │
+  │                                                                       │
+  │   ╭───────────────────────────────────────────────────────────╮      │
+  │   │  ░░░░░░░░░░░░░░░░░░  FOAM  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░  │      │
+  │   │         shipped work · visible outcomes · live pilot       │      │
+  │   ├───────────────────────────────────────────────────────────┤      │
+  │   │  ████████████  OAT MILK  ─  growth · momentum  ████████  │      │
+  │   ├───────────────────────────────────────────────────────────┤      │
+  │   │  ████████████  LATTE  ─  execution · velocity  █████████  │      │
+  │   ├───────────────────────────────────────────────────────────┤      │
+  │   │  █████████  MEDIUM ROAST  ─  systems · security  ███████  │      │
+  │   ├───────────────────────────────────────────────────────────┤      │
+  │   │  ██████████  DARK ROAST  ─  architecture · data  ███████  │      │
+  │   ├───────────────────────────────────────────────────────────┤      │
+  │   │  █████████  ESPRESSO  ─  15 ventures · foundation  █████  │      │
+  │   ╰───────────────────────────────────────────────────────────╯      │
+  │                           ───────                                     │
+  │                                                                       │
+  │   The espresso at the bottom is every company that didn't work.       │
+  │   Every hard conversation. Every wasted sprint. Every wrong call.     │
+  │   It's the darkest layer — and the most essential.                    │
+  │   Without it, there is nothing to build on.                           │
+  │                                                                       │
+  └───────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## ☕ FIFTEEN VENTURES. ONE LESSON.
+
+> *There is no light without dark. No rainbow without rain. We must never give up.*
+
+Fifteen companies came before this. Most people would call them failures. I call them curriculum.
+
+Each one taught something that cannot be taught any other way — how to read a market before it's ready, how to ship something nobody asked for and learn from the silence, how to kill a product you built with your own hands, how to start again when starting again is the last thing you want to do.
+
+The skills I use to build Beyond Norme Inc. today didn't come from a bootcamp or a book. They came from fifteen rounds of building something, watching it not work, understanding exactly why, and applying that understanding to the next attempt.
+
+The cup is full because the failures were real.
+
+```
+──────────────────────────────────────────────────────────────────────────────
+
+  VENTURE 01 → taught: market timing is not a soft skill
+  VENTURE 02 → taught: shipping without a customer is just expensive learning
+  VENTURE 03 → taught: complexity is not moat, it's debt
+  VENTURE 04 → taught: the wrong co-founder costs more than no co-founder
+  VENTURE 05 → taught: revenue is feedback. everything else is a guess
+  VENTURE 06 → taught: build the infrastructure first or rebuild it twice
+  VENTURE 07 → taught: distribution is the product for most B2C ideas
+  VENTURE 08 → taught: a pivot without conviction is a spiral
+  VENTURE 09 → taught: enterprise does not forgive weak security
+  VENTURE 10 → taught: mobile-first is not a preference — it's the market
+  VENTURE 11 → taught: AI as a feature layer is not a product
+  VENTURE 12 → taught: own the schema or you don't own anything
+  VENTURE 13 → taught: vertical integration is the only sustainable moat
+  VENTURE 14 → taught: context compounds — design for memory from day one
+  VENTURE 15 → taught: when you've learned enough, stop learning and build
+
+  BEYOND NORME → this is what fifteen attempts were building toward.
+
+──────────────────────────────────────────────────────────────────────────────
+```
+
+---
+
+## ☕ SIDE PROJECT — AGENTIC FLOWS
+
+> *I want to go deeper. Autonomous agents running in production is where the next decade is built.*
+
+Beyond my main products, I'm actively building side projects to push further into **autonomous multi-agent systems** — not as a feature, not as a demo, but as end-to-end production infrastructure.
+
+What I'm exploring:
+- Agent-to-agent communication and task delegation without human in the loop
+- Persistent memory and context threading across agent sessions
+- Failure recovery patterns for autonomous pipelines
+- Orchestration at the edge — keeping latency low when agents chain
+
+This is how I learn: by building things that break, understanding exactly why, and building them better.
 
 ---
 
@@ -149,11 +214,9 @@ Every morning is a new pour. Every commit adds to the brew. The mug is full beca
 
 > *I built this alone. Every layer. Every pipeline. Every security boundary.*
 
-This section exists because the weight of what it took to ship this doesn't show up in a commit graph.
-
 **Frontend — Next.js, three isolated surfaces**
 
-Three separate frontend surfaces — marketing site, private portal, enterprise product — in one codebase. One authentication layer, zero crossover. The marketing site can't see the product code. That's not a framework feature. That's architecture.
+Three separate frontend surfaces — marketing site, private portal, enterprise product — in one codebase. One authentication layer, zero crossover. The marketing site cannot see the product code. That's not a framework feature. That's architecture I designed.
 
 **Database — 100+ tables, raw PLpgSQL**
 
@@ -165,7 +228,7 @@ Claude, Groq, and OpenAI — all proxied server-side so no API key ever touches 
 
 **Security — 7 layers**
 
-Upstash Redis rate limiting with sliding windows — different limits for login, signup, magic links, maintenance codes, general API. Account lockout. Email allowlist at the auth layer — no contact link, no support email, no way to request access if you're not on it. PII detection for phone numbers, emails, SSNs, account numbers. Immutable audit logging. All before the first hire.
+Upstash Redis rate limiting with sliding windows — different limits for login, signup, magic links, maintenance codes, general API. Account lockout. Email allowlist enforcement at the auth layer — no contact link, no support email, no way to request access if you're not on it. PII detection for phone numbers, emails, SSNs, account numbers. Immutable audit logging. All before the first hire.
 
 **Real-Time Audio Pipeline**
 
@@ -207,9 +270,9 @@ An enterprise-grade AI platform built mobile-native from day one. Every componen
 ║  │   INPUT    │         │    STATE      │        │   SIGNAL    │    ║
 ║  │ audio·CRM  │         │ context·mem  │        │ intel·brief │    ║
 ║  └─────┬─────┘         └──────┬───────┘        └──────┬──────┘    ║
-║        └─────────────────────┬┘────────────────────────┘           ║
-║                               │                                     ║
-║                               ▼                                     ║
+║        └────────────────────┬─┘────────────────────────┘           ║
+║                              │                                      ║
+║                              ▼                                      ║
 ║      ┌────────────────────────────────────────────────────────┐    ║
 ║      │                    INTELLIGENCE CORE                    │    ║
 ║      │   isolation · trace · compliance · edge execution       │    ║
@@ -229,16 +292,6 @@ An enterprise-grade AI platform built mobile-native from day one. Every componen
 Every tool feeds every other. Intelligence compounds across sessions. Built on the same stack.
 
 **Stack:** Next.js · TypeScript · Supabase · Vercel · Stripe
-
----
-
-## ☕ CLOUD COSMETICS — Full-Stack Commerce
-
-> **No Shopify. Full brand ownership.**
-
-Custom commerce stack. Stripe + Supabase. Zero template dependency.
-
-**Stack:** Next.js · Supabase · Stripe · TypeScript · Vercel
 
 ---
 
@@ -318,16 +371,16 @@ Every tool in this stack was chosen. Not defaulted to.
 
 | Choice | Rejected | Reasoning |
 |:---|:---|:---|
-| **PLpgSQL by hand** | ORM / Prisma migrations | RLS is a security primitive. It belongs in the database, not the application. An ORM can't give you that guarantee. |
+| **PLpgSQL by hand** | ORM / Prisma migrations | RLS is a security primitive. It belongs in the database, not the application. An ORM cannot give you that guarantee. |
 | **Supabase** | Firebase | PostgreSQL is the right model for relational intelligence. RLS at the database level, not the application level. |
 | **Next.js** | CRA / Vite | API Routes + Edge Functions on one deploy surface. One codebase. Zero context switching. |
 | **TypeScript** | JavaScript | Type errors are free QA. At zero budget, TypeScript is the engineer who never sleeps. |
 | **Expo EAS** | Native iOS + Android split | One codebase. Two platforms. Mobile-native without splitting the team. |
 | **Vercel Edge** | AWS / Render | Git-push deploys. Global edge. Zero config. Infrastructure earns nothing while you're still configuring it. |
-| **Fail-closed AI** | Standard API calls | If the audit hasn't passed, the AI doesn't answer. Compliance isn't optional in enterprise. |
+| **Fail-closed AI** | Standard API calls | If the audit hasn't passed, the AI does not answer. Compliance is not optional in enterprise. |
 | **Email allowlist** | Open signup | No contact link, no support email, no way in if you're not invited. Security is architecture. |
-| **No Shopify** | Shopify | Full ownership is the only kind of ownership worth having. |
 | **Immutable audit log** | Standard logging | Database rules that prevent UPDATE and DELETE. That's the only kind of compliance table that matters. |
+| **Multi-agent side project** | Tutorials / courses | I learn by building things in production that break under real conditions. |
 
 ---
 
@@ -370,40 +423,45 @@ Every tool in this stack was chosen. Not defaulted to.
 ```
 ──────────────────────────────────────────────────────────────────────────────
 
-  [01]  FOUNDATION FIRST.
-        The schema is the product. If intelligence isn't designed into the
-        data model from day one, you're building the wrong thing. You can't
-        retrofit sovereign data. You can't bolt on RLS at scale.
+  [01]  THE DARK LAYERS COME FIRST.
+        Fifteen ventures paid for this one. The espresso at the bottom of
+        every cup is the work that didn't make it. You cannot skip it.
+        There is no light without dark. No rainbow without rain.
 
-  [02]  ZERO BUDGET IS A DESIGN CONSTRAINT.
+  [02]  FOUNDATION BEFORE SURFACE.
+        The schema is the product. Intelligence must be designed into the
+        data model from day one — not retrofitted. You cannot bolt on RLS
+        at scale. You cannot bolt on sovereign data at all.
+
+  [03]  ZERO BUDGET IS A DESIGN CONSTRAINT.
         Scarcity sharpens architecture. Every paid service must earn its
         place. Free-tier infrastructure forces elegance by default.
 
-  [03]  EVERY TOOL EARNS ITS PLACE.
+  [04]  EVERY TOOL EARNS ITS PLACE.
         No technology tourism. No tech debt from curiosity. If it doesn't
         solve a real problem in the production stack today, it doesn't ship.
 
-  [04]  MOBILE-FIRST IS NON-NEGOTIABLE.
+  [05]  MOBILE-FIRST IS NON-NEGOTIABLE.
         The user is always on their phone. Desktop is the afterthought.
         Build for the context people actually live in.
 
-  [05]  SECURITY IS ARCHITECTURE.
+  [06]  SECURITY IS ARCHITECTURE.
         Rate limiting, RLS, audit logs, fail-closed AI, immutable compliance
-        tables. These aren't features. They're the foundation. Bolt-on
-        security is not security.
+        tables. These aren't features. They're the foundation.
 
-  [06]  CONTEXT COMPOUNDS.
+  [07]  CONTEXT COMPOUNDS.
         The most valuable thing a system can accumulate is memory —
         structured, persistent context that gets smarter over time.
         That's not a feature. That's the product.
 
-  [07]  VERTICAL INTEGRATION IS THE MOAT.
-        I own the design, architecture, code, and customer relationship.
-        Outsourcing any layer is outsourcing the moat.
+  [08]  AGENTS ARE THE NEXT LAYER.
+        Autonomous flows that run without a human in the loop are not
+        a feature — they're the next infrastructure era. I'm building
+        toward that now, one experiment at a time.
 
-  [08]  SHIP FAST. REFACTOR RUTHLESSLY.
-        Velocity beats perfection until a paying customer exists. The
-        prototype that closes the deal earns the right to be rebuilt.
+  [09]  NEVER STOP. EVER.
+        The only difference between the ventures that taught me and
+        the one that's working is that I didn't stop after fourteen.
 
 ──────────────────────────────────────────────────────────────────────────────
 ```
@@ -419,8 +477,8 @@ Every tool in this stack was chosen. Not defaulted to.
 | Engineers who build before they theorize | Agencies |
 | Investors who understand infrastructure timing | Cookie-cutter SaaS advisors |
 | Enterprise operators who've outgrown their stack | Outsourced architecture |
-| Founders in adjacent verticals | Technology tourism |
-| Anyone who has shipped something real | People who haven't |
+| Founders who've failed and kept going | People who haven't shipped |
+| Anyone exploring autonomous agent systems | Technology tourism |
 
 </div>
 
@@ -431,13 +489,15 @@ Every tool in this stack was chosen. Not defaulted to.
 <br/>
 
 ```
-  ╔════════════════════════════════════════════════════════════════╗
-  ║                                                                ║
-  ║   "Building a company is like brewing coffee.                  ║
-  ║    One cup does not make the difference.                       ║
-  ║    Thousands of cups do."                                      ║
-  ║                                                                ║
-  ╚════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                                                                  ║
+  ║   "There is no light without dark.                               ║
+  ║    No rainbow without rain.                                      ║
+  ║    One cup does not build a company.                             ║
+  ║    Thousands of cups do.                                         ║
+  ║    We must never give up."                                       ║
+  ║                                                                  ║
+  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -446,6 +506,6 @@ Every tool in this stack was chosen. Not defaulted to.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0806,30:2B1810,60:4A2C1D,100:0A0806&height=120&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0806,25:1A0D08,50:2B1810,75:4A2C1D,100:0A0806&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
