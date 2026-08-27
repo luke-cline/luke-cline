@@ -18,7 +18,7 @@
 &nbsp;
 ![Status](https://img.shields.io/badge/STATUS-☕%20BREWING-C9AE8A?style=flat-square&labelColor=2B1810)
 &nbsp;
-[![Beyond Norme](https://img.shields.io/badge/Beyond%20Norme%20Inc.-0A0806?style=flat-square&logoColor=C9AE8A)](https://www.agntqs.com/portal)
+[![Beyond Norme](https://img.shields.io/badge/Beyond%20Norme%20Inc.-0A0806?style=flat-square&logoColor=C9AE8A)](https://www.phielia.com/portal)
 
 </div>
 
@@ -71,7 +71,7 @@ Building a company is like brewing coffee. One conversation, one commit, one cus
 
 ### What I'm building right now
 
-- `AGNTQS` — enterprise AI platform, live pilot in progress
+- `Phielia` — enterprise AI platform, live pilot in progress
 - `Beyond Norme` — closed-loop operator platform, AI-native from the schema up
 - `Agentic Flows` — side project · exploring autonomous multi-agent systems · learning by building
 
@@ -234,7 +234,7 @@ Upstash Redis rate limiting with sliding windows — different limits for login,
 
 Apple CallKit + Twilio Voice SDK + WebRTC, with SIPREC fallback for enterprise contact centers. Live audio streams to Deepgram Nova-2 for real-time ASR with speaker diarization. Transcript feeds Claude for structured extraction. PII scrubbed inline before anything hits the database. Result pushed to CRM during the live call. Sub-second latency. Every millisecond mattered.
 
-**Compliance Engine — AGNTQS Trust**
+**Compliance Engine — Phielia Trust**
 
 Automated consent disclosure, state-aware two-party consent logic (California, Florida, Illinois handled differently), PII redaction at the edge with confidence scoring, and an immutable append-only audit log with database rules that literally prevent UPDATE and DELETE on the compliance table. That's enterprise audit readiness.
 
@@ -248,7 +248,7 @@ Three.js + react-force-graph-3d for spatial visualization of enterprise data —
 
 ---
 
-## ☕ AGNTQS — Enterprise AI Platform
+## ☕ PHIELIA — Enterprise AI Platform
 
 > **Not an app. Not a wrapper. Infrastructure.**
 
