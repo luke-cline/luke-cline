@@ -6,7 +6,13 @@
 
 Building real-time intelligence for enterprise conversations.
 
-[LinkedIn](https://www.linkedin.com/in/beyondnorme/) · [GitHub](https://github.com/luke-cline)
+<a href="https://www.linkedin.com/in/beyondnorme/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A0A0B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/luke-cline">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0A0A0B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -22,7 +28,7 @@ Before Phielia, I built and experimented with multiple products. Those experienc
 
 <div align="center">
 
-<img src="./assets/phielia-founder-banner.png" width="100%" alt="Phielia founder" />
+<img src="https://raw.githubusercontent.com/luke-cline/luke-cline/main/assets/phielia-founder-banner.png" width="100%" alt="Phielia founder" />
 
 </div>
 
@@ -150,7 +156,7 @@ I care about understanding how these systems connect, not simply making individu
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,supabase,cloudflare,nodejs,python,github,docker,git,figma,expo,redis&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind,postgres,supabase,cloudflare,nodejs,python,github,docker,git,figma,expo,redis&theme=dark&perline=7" alt="Technologies" />
 
 </div>
 
@@ -224,9 +230,7 @@ I am not interested in simply following the future.
 
 ## The Standard
 
-Maximum energy.  
-Maximum clarity.  
-Maximum capability.
+**Maximum energy. Maximum clarity. Maximum capability.**
 
 Build the capacity to solve difficult problems for a long time.
 
@@ -238,7 +242,17 @@ I am interested in meeting people who are building ambitious products, working o
 
 If that sounds like you, feel free to reach out.
 
-[LinkedIn](https://www.linkedin.com/in/beyondnorme/) · [GitHub](https://github.com/luke-cline)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/beyondnorme/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A0A0B?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/luke-cline">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0A0A0B?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
